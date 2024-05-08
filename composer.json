@@ -15,7 +15,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "eftec/bladeone": "^4.13"
+    },
     "config": {
         "platform": {
             "php": "8.2"
