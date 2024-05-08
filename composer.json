@@ -1,0 +1,19 @@
+{
+    "name": "nora-shirokuma/generator-php",
+    "description": "code generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NoraShirokuma\\GeneratorPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nora-shirokuma",
+            "email": "myself@nora-shirokuma.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
