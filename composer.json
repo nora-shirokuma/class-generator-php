@@ -1,6 +1,6 @@
 {
-    "name": "nora-shirokuma/generator-php",
-    "description": "code generator",
+    "name": "nora-shirokuma/class-generator-php",
+    "description": "php class generator",
     "type": "library",
     "license": "MIT",
     "autoload": {
