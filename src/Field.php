@@ -1,6 +1,6 @@
 <?php
 
-namespace NoraShirokuma\GeneratorPhp;
+namespace NoraShirokuma\ClassGeneratorPhp;
 
 class Field
 {
