@@ -1,1 +1,1 @@
-# generator-php
+# class-generator-php
