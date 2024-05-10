@@ -4,7 +4,7 @@ namespace NoraShirokuma\ClassGeneratorPhp\Domain\Property;
 
 use Exception;
 
-class Visibility
+class PropertyVisibility
 {
     public const VISIBILITY_PRIVATE = 'private';
 
