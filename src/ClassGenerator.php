@@ -2,6 +2,8 @@
 
 namespace NoraShirokuma\ClassGeneratorPhp;
 
+use NoraShirokuma\ClassGeneratorPhp\Domain\Property\Properties;
+
 class ClassGenerator
 {
     private string $body = "";
@@ -19,6 +21,8 @@ class ClassGenerator
     private bool $abstract = false;
 
     private array $methods = [];
+
+    private ?Properties $properties = null;
 
     public function __construct(string $className)
     {
